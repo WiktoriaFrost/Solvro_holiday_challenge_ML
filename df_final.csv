@@ -1,0 +1,135 @@
+name,category,tags,alcoholic,ingredients,cluster,dbscan_cluster
+Mojito,Cocktail,"['IBA', 'ContemporaryClassic', 'Alcoholic', 'USA', 'Asia', 'Vegan', 'Citrus', 'Brunch', 'Hangover', 'Mild']",1,"['Soda water', 'Light Rum', 'Lime', 'Mint', 'Sugar']",1,0
+Old Fashioned,Cocktail,"['IBA', 'Classic', 'Alcoholic', 'Expensive', 'Savory']",1,"['Water', 'Sugar', 'Angostura Bitters', 'Bourbon']",0,1
+Long Island Tea,Ordinary Drink,"['Strong', 'Asia', 'StrongFlavor', 'Brunch', 'Vegetarian', 'Sour']",1,"['Light Rum', 'lemon', 'Vodka', 'Gin', 'Tequila', 'Coca-Cola']",1,0
+Negroni,Ordinary Drink,"['IBA', 'Classic']",1,"['Sweet Vermouth', 'Gin', 'Campari']",0,1
+Whiskey Sour,Ordinary Drink,"['IBA', 'Classic', 'Alcoholic', 'ContemporaryClassic']",1,"['Powdered Sugar', 'lemon', 'Blended Whiskey', 'Cherry']",3,2
+Dry Martini,Cocktail,"['IBA', 'Classic', 'Christmas', 'Alcoholic']",1,"['Dry Vermouth', 'Gin', 'Olive']",2,3
+Daiquiri,Ordinary Drink,"['IBA', 'Classic', 'Beach']",1,"['Light Rum', 'Lime', 'Powdered Sugar']",2,3
+Margarita,Ordinary Drink,"['IBA', 'ContemporaryClassic']",1,"['Tequila', 'Lime Juice', 'Salt', 'Triple Sec']",1,0
+Manhattan,Cocktail,"['IBA', 'Classic', 'Alcoholic']",1,"['Angostura Bitters', 'Bourbon', 'Ice', 'Maraschino Cherry', 'Orange Peel', 'Sweet Vermouth']",2,3
+Moscow Mule,Punch / Party Drink,"['IBA', 'ContemporaryClassic']",1,"['Vodka', 'Ginger Ale', 'Lime Juice']",1,0
+After Dinner Cocktail,Ordinary Drink,['DinnerParty'],1,"['Apricot Brandy', 'Lime', 'Triple Sec']",2,3
+After Supper Cocktail,Ordinary Drink,,1,"['Apricot Brandy', 'Lemon Juice', 'Triple Sec']",2,3
+Alabama Slammer,Ordinary Drink,['Summer'],1,"['Amaretto', 'Lemon Juice', 'Sloe Gin', 'Southern Comfort']",0,1
+Alaska Cocktail,Ordinary Drink,"['Beach', 'Chilli']",1,"['Gin', 'Lemon Peel', 'Orange Bitters', 'Yellow Chartreuse']",2,3
+Alexander,Ordinary Drink,"['IBA', 'Classic', 'Dairy']",1,"['Gin', 'Creme De Cacao', 'Light Cream', 'Nutmeg']",2,3
+Brandy Alexander,Ordinary Drink,"['Nutty', 'Dairy']",1,"['Brandy', 'Creme De Cacao', 'Light Cream', 'Nutmeg']",1,0
+Alfie Cocktail,Ordinary Drink,['Alcoholic'],1,"['Lemon vodka', 'Pineapple Juice', 'Triple Sec']",2,3
+Algonquin,Ordinary Drink,,1,"['Blended Whiskey', 'Dry Vermouth', 'Pineapple Juice']",2,3
+Allegheny,Ordinary Drink,,1,"['Blackberry Brandy', 'Bourbon', 'Dry Vermouth', 'Lemon Juice', 'Lemon Peel']",2,3
+Allies Cocktail,Ordinary Drink,,1,"['Gin', 'Dry Vermouth', 'Kummel']",2,3
+Almeria,Ordinary Drink,,1,"['Dark Rum', 'Egg White', 'Kahlua']",2,3
+Almond Joy,Ordinary Drink,,1,"['Amaretto', 'Creme De Cacao', 'Light Cream']",2,3
+Amaretto And Cream,Ordinary Drink,,1,"['Amaretto', 'Light Cream']",2,3
+Amaretto Mist,Ordinary Drink,,1,"['Amaretto', 'Lime']",1,0
+Amaretto Rose,Ordinary Drink,,1,"['Amaretto', 'Club Soda', 'Lime Juice']",1,0
+Amaretto Stinger,Ordinary Drink,,1,"['Amaretto', 'White Creme de Menthe']",2,3
+Amaretto Tea,Ordinary Drink,,1,"['Amaretto', 'Tea', 'Whipped Cream']",1,0
+Angel Face,Ordinary Drink,"['IBA', 'Classic']",1,"['Gin', 'Apple Brandy', 'Apricot Brandy']",2,3
+Applecar,Ordinary Drink,,1,"['Applejack', 'Lemon Juice', 'Triple Sec']",2,3
+Apricot Lady,Ordinary Drink,['Cold'],1,"['Apricot Brandy', 'Egg White', 'Lemon Juice', 'Light Rum', 'Orange', 'Triple Sec']",1,0
+Archbishop,Ordinary Drink,,1,"['Gin', 'Benedictine', 'Lime', 'Wine']",0,1
+Arise My Love,Ordinary Drink,,1,"['Champagne', 'Green Creme de Menthe']",1,0
+Arthur Tompkins,Ordinary Drink,,1,"['Gin', 'Grand Marnier', 'Lemon Juice', 'Lemon Peel']",0,1
+Artillery,Ordinary Drink,,1,"['Gin', 'Bitters', 'Sweet Vermouth']",2,3
+Balmoral,Ordinary Drink,,1,"['Scotch', 'Bitters', 'Dry Vermouth', 'Sweet Vermouth']",2,3
+Banana Daiquiri,Ordinary Drink,['Fruity'],1,"['Banana', 'Cherry', 'Light Rum', 'Lime Juice', 'Sugar', 'Triple Sec']",1,0
+Bermuda Highball,Ordinary Drink,,1,"['Gin', 'Brandy', 'Carbonated Water', 'Dry Vermouth', 'Lemon Peel']",0,1
+Black Russian,Ordinary Drink,"['IBA', 'ContemporaryClassic']",1,"['Vodka', 'Coffee Liqueur']",1,0
+Blackthorn,Ordinary Drink,,1,"['Lemon Peel', 'Sloe Gin', 'Sweet Vermouth']",2,3
+Bloody Maria,Ordinary Drink,"['Breakfast', 'Brunch', 'Hangover']",1,"['Tequila', 'Celery Salt', 'Lemon Juice', 'lemon', 'Tabasco Sauce', 'Tomato Juice']",1,0
+Bloody Mary,Ordinary Drink,"['IBA', 'ContemporaryClassic']",1,"['Vodka', 'Lemon Juice', 'Lime', 'Tabasco Sauce', 'Tomato Juice', 'Worcestershire Sauce']",1,0
+Blue Lagoon,Ordinary Drink,,1,"['Vodka', 'Blue Curacao', 'Cherry', 'Lemonade']",1,0
+Blue Margarita,Ordinary Drink,,1,"['Tequila', 'Blue Curacao', 'Lime Juice', 'Salt']",2,3
+Blue Mountain,Ordinary Drink,,1,"['Vodka', 'Añejo Rum', 'Lemon Juice', 'Orange Juice', 'Tia Maria']",1,0
+Bluebird,Ordinary Drink,,1,"['Gin', 'Bitters', 'Blue Curacao', 'Lemon Peel', 'Maraschino Cherry', 'Triple Sec']",2,3
+Bobby Burns Cocktail,Ordinary Drink,,1,"['Scotch', 'Benedictine', 'Lemon Peel', 'Sweet Vermouth']",2,3
+Boomerang,Ordinary Drink,,1,"['Gin', 'Bitters', 'Dry Vermouth', 'Maraschino Cherry', 'Maraschino Liqueur']",2,3
+Boston Sidecar,Ordinary Drink,,1,"['Brandy', 'Light Rum', 'Lime', 'Triple Sec']",2,3
+Boston Sour,Ordinary Drink,,1,"['Blended Whiskey', 'Cherry', 'Egg White', 'lemon', 'Powdered Sugar']",3,2
+Classic Old-Fashioned,Ordinary Drink,,1,"['Bitters', 'Bourbon', 'Maraschino Cherry', 'Orange', 'Sugar', 'Water']",0,1
+Bourbon Sling,Ordinary Drink,,1,"['Bourbon', 'Lemon Juice', 'Lemon Peel', 'Sugar', 'Water']",0,1
+Bourbon Sour,Ordinary Drink,,1,"['Bourbon', 'Lemon Juice', 'Maraschino Cherry', 'Orange', 'Sugar']",0,1
+Boxcar,Ordinary Drink,,1,"['Gin', 'Egg White', 'Grenadine', 'Lemon Juice', 'Triple Sec']",0,1
+Brandy Cobbler,Ordinary Drink,,1,"['Brandy', 'Club Soda', 'lemon', 'Maraschino Cherry', 'Orange', 'Sugar']",0,1
+Brandy Flip,Ordinary Drink,,1,"['Brandy', 'Egg', 'Light Cream', 'Nutmeg', 'Sugar']",2,3
+Brandy Sour,Ordinary Drink,,1,"['Brandy', 'Cherry', 'lemon', 'Powdered Sugar']",3,2
+Caipirinha,Ordinary Drink,"['ContemporaryClassic', 'IBA']",1,"['Cachaca', 'Lime', 'Sugar']",1,0
+California Lemonade,Ordinary Drink,,1,"['Blended Whiskey', 'Carbonated Water', 'Grenadine', 'lemon', 'Lime', 'Powdered Sugar']",3,2
+Casa Blanca,Ordinary Drink,,1,"['Light Rum', 'Lime Juice', 'Maraschino Liqueur', 'Triple Sec']",2,3
+Casino Royale,Ordinary Drink,,1,"['Gin', 'Egg Yolk', 'Lemon Juice', 'Maraschino Liqueur', 'Orange Bitters']",0,1
+Champagne Cocktail,Ordinary Drink,"['IBA', 'ContemporaryClassic']",1,"['Bitters', 'Champagne', 'Cognac', 'Lemon Peel', 'Sugar']",1,0
+Cherry Rum,Ordinary Drink,,1,"['Cherry Brandy', 'Light Cream', 'Light Rum']",2,3
+Chicago Fizz,Ordinary Drink,,1,"['Carbonated Water', 'Egg White', 'lemon', 'Light Rum', 'Port', 'Powdered Sugar']",3,2
+Chocolate Black Russian,Ordinary Drink,,1,"['Vodka', 'Chocolate Ice-cream', 'Kahlua']",1,0
+City Slicker,Ordinary Drink,,1,"['Brandy', 'Lemon Juice', 'Triple Sec']",2,3
+Clove Cocktail,Ordinary Drink,,1,"['Sloe Gin', 'Sweet Vermouth', 'Wine']",2,3
+Cuba Libre,Ordinary Drink,"['IBA', 'ContemporaryClassic']",1,"['Coca-Cola', 'Light Rum', 'Lime']",1,0
+Dragonfly,Ordinary Drink,,1,"['Gin', 'Ginger Ale', 'Lime']",0,1
+Dry Rob Roy,Ordinary Drink,,1,"['Scotch', 'Dry Vermouth', 'Lemon Peel']",2,3
+Dubonnet Cocktail,Ordinary Drink,,1,"['Gin', 'Bitters', 'Dubonnet Rouge', 'Lemon Peel']",2,3
+English Highball,Ordinary Drink,,1,"['Gin', 'Brandy', 'Carbonated Water', 'Lemon Peel', 'Sweet Vermouth']",0,1
+English Rose Cocktail,Ordinary Drink,,1,"['Gin', 'Apricot Brandy', 'Cherry', 'Dry Vermouth', 'Grenadine', 'Lemon Juice']",2,3
+Flying Dutchman,Ordinary Drink,,1,"['Gin', 'Triple Sec']",0,1
+Flying Scotchman,Ordinary Drink,,1,"['Scotch', 'Bitters', 'Sugar Syrup', 'Sweet Vermouth']",2,3
+Foxy Lady,Ordinary Drink,,1,"['Amaretto', 'Creme De Cacao', 'Light Cream']",2,3
+Frisco Sour,Ordinary Drink,,1,"['Benedictine', 'Blended Whiskey', 'lemon', 'Lime']",3,2
+Frozen Daiquiri,Ordinary Drink,,1,"['Cherry', 'Ice', 'Light Rum', 'Lime Juice', 'Sugar', 'Triple Sec']",1,0
+Frozen Mint Daiquiri,Ordinary Drink,,1,"['Light Rum', 'Lime Juice', 'Mint', 'Sugar']",1,0
+Frozen Pineapple Daiquiri,Ordinary Drink,,1,"['Light Rum', 'Lime Juice', 'Pineapple', 'Sugar']",2,3
+Gentleman's Club,Ordinary Drink,,1,"['Gin', 'Brandy', 'Club Soda', 'Sweet Vermouth']",0,1
+Gin And Tonic,Ordinary Drink,,1,"['Gin', 'Lime', 'Tonic Water']",0,1
+Gin Cooler,Ordinary Drink,,1,"['Gin', 'Carbonated Water', 'Lemon Peel', 'Orange spiral', 'Powdered Sugar']",0,1
+Gin Daisy,Ordinary Drink,,1,"['Gin', 'Grenadine', 'Lemon Juice', 'Maraschino Cherry', 'Orange', 'Sugar']",0,1
+Gin Fizz,Ordinary Drink,"['IBA', 'Classic']",1,"['Gin', 'Carbonated Water', 'lemon', 'Powdered Sugar']",3,2
+Gin Sling,Ordinary Drink,,1,"['Gin', 'lemon', 'Orange Peel', 'Powdered Sugar', 'Water']",0,1
+Gin Smash,Ordinary Drink,"['Citrus', 'StrongFlavor']",1,"['Gin', 'Carbonated Water', 'Cherry', 'Mint', 'Orange', 'Sugar']",0,1
+Gin Sour,Ordinary Drink,['Sour'],1,"['Gin', 'Lemon Juice', 'Maraschino Cherry', 'Orange', 'Sugar']",0,1
+Gin Squirt,Ordinary Drink,,1,"['Gin', 'Carbonated Water', 'Grenadine', 'Pineapple', 'Powdered Sugar', 'Strawberries']",0,1
+Gin Swizzle,Ordinary Drink,,1,"['Gin', 'Bitters', 'Club Soda', 'Lime Juice', 'Sugar']",0,1
+Gin Toddy,Ordinary Drink,,1,"['Gin', 'Lemon Peel', 'Powdered Sugar', 'Water']",0,1
+Godchild,Ordinary Drink,,1,"['Vodka', 'Amaretto', 'Heavy cream']",1,0
+Godfather,Ordinary Drink,"['IBA', 'ContemporaryClassic']",1,"['Scotch', 'Amaretto']",1,0
+Godmother,Ordinary Drink,"['IBA', 'ContemporaryClassic']",1,"['Vodka', 'Amaretto']",1,0
+Grass Skirt,Ordinary Drink,,1,"['Gin', 'Grenadine', 'Pineapple Juice', 'Pineapple', 'Triple Sec']",0,1
+Harvey Wallbanger,Ordinary Drink,"['IBA', 'ContemporaryClassic']",1,"['Vodka', 'Galliano', 'Orange Juice']",1,0
+Havana Cocktail,Ordinary Drink,,1,"['Lemon Juice', 'Light Rum', 'Pineapple Juice']",2,3
+Hawaiian Cocktail,Ordinary Drink,,1,"['Gin', 'Pineapple Juice', 'Triple Sec']",2,3
+Highland Fling Cocktail,Ordinary Drink,,1,"['Scotch', 'Olive', 'Orange Bitters', 'Sweet Vermouth']",2,3
+Imperial Fizz,Ordinary Drink,,1,"['Blended Whiskey', 'Carbonated Water', 'lemon', 'Light Rum', 'Powdered Sugar']",3,2
+Irish Spring,Ordinary Drink,,1,"['Cherry', 'Irish Whiskey', 'Orange Juice', 'Orange', 'Peach brandy', 'Sweet and Sour']",1,0
+Jack Rose Cocktail,Ordinary Drink,['Beach'],1,"['Apple Brandy', 'Grenadine', 'Lime']",2,3
+Japanese Fizz,Ordinary Drink,,1,"['Blended Whiskey', 'Carbonated Water', 'Egg White', 'lemon', 'Port', 'Powdered Sugar']",3,2
+Jewel Of The Nile,Ordinary Drink,,1,"['Gin', 'Green Chartreuse', 'Yellow Chartreuse']",2,3
+John Collins,Ordinary Drink,['IBA'],1,"['Bourbon', 'Club Soda', 'Lemon Juice', 'Maraschino Cherry', 'Orange', 'Sugar']",0,1
+Kamikaze,Ordinary Drink,"['IBA', 'NewEra']",1,"['Vodka', 'Lime Juice', 'Triple Sec']",1,0
+Kentucky B And B,Ordinary Drink,,1,"['Benedictine', 'Bourbon']",0,1
+Kentucky Colonel,Ordinary Drink,,1,"['Benedictine', 'Bourbon', 'Lemon Peel']",2,3
+Lady Love Fizz,Ordinary Drink,,1,"['Gin', 'Carbonated Water', 'Egg White', 'lemon', 'Light Cream', 'Powdered Sugar']",3,2
+Loch Lomond,Ordinary Drink,,1,"['Scotch', 'Drambuie', 'Dry Vermouth', 'Lemon Peel']",2,3
+London Town,Ordinary Drink,,1,"['Gin', 'Maraschino Liqueur', 'Orange Bitters']",2,3
+Lone Tree Cocktail,Ordinary Drink,,1,"['Gin', 'Sweet Vermouth']",2,3
+Lone Tree Cooler,Ordinary Drink,,1,"['Gin', 'Carbonated Water', 'Dry Vermouth', 'Lemon Peel', 'Orange spiral', 'Powdered Sugar']",0,1
+Lord And Lady,Ordinary Drink,,1,"['Dark Rum', 'Tia Maria']",1,0
+Mai Tai,Ordinary Drink,"['IBA', 'ContemporaryClassic']",1,"['Cherry', 'Light Rum', 'Orgeat Syrup', 'Sweet and Sour', 'Triple Sec']",1,0
+Martinez Cocktail,Cocktail,,1,"['Gin', 'Cherry', 'Dry Vermouth', 'Orange Bitters', 'Triple Sec']",2,3
+Martini,Cocktail,,1,"['Gin', 'Dry Vermouth', 'Olive']",2,3
+Midnight Cowboy,Ordinary Drink,,1,"['Bourbon', 'Dark Rum', 'Heavy cream']",2,3
+Mississippi Planters Punch,Ordinary Drink,,1,"['Bourbon', 'Brandy', 'Carbonated Water', 'lemon', 'Light Rum', 'Powdered Sugar']",3,2
+Monkey Wrench,Ordinary Drink,,1,"['Bitters', 'Grapefruit Juice', 'Light Rum']",1,0
+New York Sour,Ordinary Drink,,1,"['Blended Whiskey', 'Cherry', 'lemon', 'Red Wine', 'Sugar']",3,2
+Orange Oasis,Ordinary Drink,,1,"['Gin', 'Cherry Brandy', 'Ginger Ale', 'Orange Juice']",0,1
+Orgasm,Ordinary Drink,,1,"['Vodka', 'Amaretto', 'Creme De Cacao', 'Light Cream', 'Triple Sec']",2,3
+Pink Gin,Ordinary Drink,,1,"['Gin', 'Bitters']",0,1
+Pink Lady,Ordinary Drink,,1,"['Gin', 'Egg White', 'Grenadine', 'Light Cream']",2,3
+Poppy Cocktail,Ordinary Drink,,1,"['Gin', 'Creme De Cacao']",2,3
+Port And Starboard,Ordinary Drink,,1,"['Green Creme de Menthe', 'Grenadine']",1,0
+Port Wine Cocktail,Ordinary Drink,,1,"['Brandy', 'Port']",2,3
+Port Wine Flip,Ordinary Drink,,1,"['Egg', 'Light Cream', 'Nutmeg', 'Port', 'Powdered Sugar']",3,-1
+Quaker's Cocktail,Ordinary Drink,,1,"['Brandy', 'lemon', 'Light Rum', 'Raspberry syrup']",2,3
+Quarter Deck Cocktail,Ordinary Drink,,1,"['Light Rum', 'Lime', 'Sherry']",2,3
+Queen Bee,Ordinary Drink,,1,"['Coffee Brandy', 'Lime vodka', 'Sherry']",2,3
+Queen Charlotte,Ordinary Drink,,1,"['Grenadine', 'Lemon-lime soda', 'Red Wine']",1,0
+Queen Elizabeth,Ordinary Drink,,1,"['Gin', 'Benedictine', 'Dry Vermouth']",2,3
+Quentin,Ordinary Drink,,1,"['Dark Rum', 'Kahlua', 'Light Cream', 'Nutmeg']",2,3
