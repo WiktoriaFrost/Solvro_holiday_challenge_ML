@@ -1,6 +1,6 @@
 ## Title:
 
-__Holiday Chalange Solvro ML 2024__
+__Holiday Challenge Solvro ML 2024__
 (original title: Wakacyjne Wyzwanie Solvro ML 2024)
 
 ## Description:
